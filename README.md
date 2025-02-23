@@ -46,6 +46,4 @@ Hello, my name is Rashmi Jadhav and I am a undergraduate's student at [Shenzhen 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-fang)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-fang)
