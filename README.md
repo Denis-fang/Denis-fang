@@ -43,6 +43,6 @@ Hello, my name is Rashmi Jadhav and I am a undergraduate's student at [Shenzhen 
 ![Yuhao Fang's Github Stats](https://github-readme-stats.vercel.app/api?username=Denis-fang&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-fang&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Denis-fang)
+
 
 
