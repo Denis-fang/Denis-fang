@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello, my name is Rashmi Jadhav and I am a undergraduate's student at [Shenzhen MSU-BIT University](https://www.smbu.edu.cn/) majoring in Electronic and Computer Engineering. I am a full-stack software developer with three years of experience working as a Software Engineer at [eQ Technologic India Pvt. Ltd.](https://www.1eq.com/) My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
 
-- 🔭 I’m currently researching in the field of Computer Vision and Reinforce Learning
+- 🔭 I’m currently researching in the field of Deep Learning and Diffussion Model
 - 💬 Feel free to reach out for discussions about machine learning and deep generative models(GANs, VAE, Diffusion Model) with me
 - 📫 How to reach me: fangyuhao209@gmail.com
 - 😄 Pronouns: Professor/He/Him/His
