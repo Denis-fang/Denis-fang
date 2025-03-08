@@ -22,7 +22,7 @@ Hello, my name is Rashmi Jadhav and I am a undergraduate's student at [Shenzhen 
 - 📫 How to reach me: fangyuhao209@gmail.com
 - 😄 Pronouns: Professor/He/Him/His
 - ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
-- 📝 [Resume]((https://github.com/Denis-fang/Yuhao_Fang_Resume/blob/main/Yuhao_Fang%20CV.pdf))
+- 📝 [Resume](https://github.com/Denis-fang/Yuhao_Fang_Resume/blob/main/Yuhao_Fang%20CV.pdf)
 
 **Languages and Tools:** 
 
